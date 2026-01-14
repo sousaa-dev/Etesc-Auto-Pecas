@@ -1,0 +1,36 @@
+# ETESC Auto Peças – Site Institucional
+
+Projeto acadêmico desenvolvido durante o curso Técnico em Informática na FAETEC.
+
+🔗 Acesse o site:  
+https://sousaa-dev.github.io/Etesc-Auto-Pecas/
+
+## 📌 Sobre o projeto
+Este projeto consiste no desenvolvimento de um site institucional para uma **empresa fictícia de fabricação de autopeças sustentáveis**, chamada *ETESC Auto Peças*.
+
+O objetivo foi criar uma presença digital para a empresa, apresentando seus valores, serviços e o conceito de sustentabilidade aplicado ao setor automotivo.
+
+## 🌱 Conceito da empresa
+A ETESC Auto Peças é uma empresa fictícia focada na produção de autopeças sustentáveis, utilizando práticas e materiais que reduzem o impacto ambiental,
+promovendo inovação e responsabilidade ecológica.
+
+## 🛠 Tecnologias utilizadas
+- HTML5
+- CSS3
+- JavaScript
+
+## 🎯 Objetivos do projeto
+- Desenvolver um site institucional completo
+- Praticar estruturação semântica com HTML
+- Aplicar estilização e layout com CSS
+- Utilizar JavaScript para interações básicas
+- Trabalhar conceitos de design e organização visual
+- Simular um projeto real de uma empresa
+
+## 📚 Aprendizados
+- Estruturação de páginas web
+- Organização de arquivos e pastas
+- Estilização responsiva
+- Introdução ao desenvolvimento Front-end
+- Trabalho em equipe em projeto acadêmico
+   git clone https://github.com/sousaa-dev/Etesc-Auto-Pecas.git
